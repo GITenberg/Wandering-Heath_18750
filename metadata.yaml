@@ -1,0 +1,37 @@
+_repo: Wandering-Heath_18750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Arthur Thomas
+    - Q
+    - Quiller-Couch, Sir Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2006-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+tableOfContents: Prologue -- The Roll-Call of the Reef -- The Looe Die-Hards -- My
+  Grandfather, Hendry Watty -- Jetsom -- Wrestlers -- The Bishop of Eucalyptus --
+  Widdershins -- Visitors at the Gunnel Rock -- Letters from Troy -- The Legend Of
+  Sir Dinar -- "Flowing Source" -- A Young Man's Diary -- The Captain From Bath
+title: Wandering Heath
+url: http://www.gutenberg.org/ebooks/18750
