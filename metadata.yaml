@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18750#Wandering-Heath
 gutenberg_issued: '2006-07-03'
 gutenberg_type: Text
 identifiers:
